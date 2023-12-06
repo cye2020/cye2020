@@ -18,26 +18,26 @@ Here are some ideas to get you started:
 Welcome to my page!
 
 ## About Me
-- 😊 이름: 조예은 (Cho Ye-eun)
-- 🎓 전공: 소프트웨어학과 (Department of Computer Science and Engineering)
+- 😊 Name: 조예은 (Cho Ye-eun)
+- 🎓 Major: Department of Computer Science and Engineering
 
 
 
-## 기술 스택
+## Skills
 
-### 프로그래밍 언어
+### Programming Languages
 - Python: ⭐⭐⭐⭐
 - C: ⭐⭐⭐
 - C++: ⭐
 - Java: ⭐⭐
 - Kotlin: ⭐
 
-### 데이터 분석 및 시각화
+### Data Analysis and Visualization
 - Pandas: ⭐⭐⭐⭐
 - Matplotlib: ⭐⭐⭐⭐
 - Seaborn: ⭐⭐⭐⭐
 
-### 빅데이터 및 데이터베이스
+### Big Data and Databases
 - Spark: ⭐⭐⭐
 - Elastic Search: ⭐⭐⭐
 - jupyter: ⭐⭐⭐⭐
@@ -46,35 +46,47 @@ Welcome to my page!
 - MongoDB: ⭐⭐⭐⭐
 - PostgreSQL: ⭐⭐⭐⭐
 
-### 머신러닝 및 딥러닝
+### Machine Learning and Deep Learning
 - Tensorflow: ⭐⭐⭐
 - Keras: ⭐⭐⭐
 - scikit-learn: ⭐⭐⭐
 - PyTorch: ⭐⭐⭐⭐
 
-### 데이터 사이언스 플랫폼
+### Data Science Platforms
 - Kaggle: ⭐⭐⭐
 - Weights & Biases: ⭐⭐
 
-### 웹 개발
+### Web Development
 - Flask: ⭐⭐⭐⭐
 - HTML: ⭐⭐⭐
 - CSS: ⭐⭐
 - JavaScript: ⭐⭐⭐
 
-### 안드로이드 개발
+### Android Development
 - Android Studio: ⭐⭐
 
-### 협업 및 버전 관리
+### Collaboration and Version Control
 - Github: ⭐⭐⭐
 - Notion: ⭐⭐⭐⭐
 - Slack: ⭐⭐⭐
 
-### 클라우드 플랫폼
+### Cloud Platforms
 - AWS: ⭐⭐⭐
 - Docker: ⭐⭐
 
 
 
+## 프로젝트
 
+### 1.  Development of Deep Learning-Based Stock Chart Prediction Model
+- **Description:** A deep learning-based prediction system that forecasts short-term stock price movements using only stock chart images, rather than numerical data.
+- **Link:** [Project Link](https://github.com/VAIV-SKKU)
+
+### 2. Participatory Sequence Model for Generating Multitrack Pianoroll
+- **Description:** A participatory sequence model designed to generate multitrack pianoroll, facilitating collaborative music creation.
+- **Link:** [Project Link](https://github.com/AI-Project-Team13)
+
+### 3. 웹 개발 포트폴리오
+- **Description:** A community-building project aimed at providing housing information and fostering a community for students at Sungkyunkwan University.
+- **Link:** [Project Link](https://github.com/Kangsan419/SWE_Team2)
 
