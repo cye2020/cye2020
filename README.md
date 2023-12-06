@@ -76,7 +76,7 @@ Welcome to my page!
 
 
 
-## 프로젝트
+## Project
 
 ### 1.  Development of Deep Learning-Based Stock Chart Prediction Model
 - **Description:** A deep learning-based prediction system that forecasts short-term stock price movements using only stock chart images, rather than numerical data.
@@ -86,7 +86,7 @@ Welcome to my page!
 - **Description:** A participatory sequence model designed to generate multitrack pianoroll, facilitating collaborative music creation.
 - **Link:** [Project Link](https://github.com/AI-Project-Team13)
 
-### 3. 웹 개발 포트폴리오
+### 3. Finding a Home Near Sungkyunkwan University
 - **Description:** A community-building project aimed at providing housing information and fostering a community for students at Sungkyunkwan University.
 - **Link:** [Project Link](https://github.com/Kangsan419/SWE_Team2)
 
