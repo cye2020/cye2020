@@ -23,58 +23,6 @@ Welcome to my page!
 
 
 
-## Skills
-
-### Programming Languages
-- Python: ⭐⭐⭐⭐
-- C: ⭐⭐⭐
-- C++: ⭐
-- Java: ⭐⭐
-- Kotlin: ⭐
-
-### Data Analysis and Visualization
-- Pandas: ⭐⭐⭐⭐
-- Matplotlib: ⭐⭐⭐⭐
-- Seaborn: ⭐⭐⭐⭐
-
-### Big Data and Databases
-- Spark: ⭐⭐⭐
-- Elastic Search: ⭐⭐⭐
-- jupyter: ⭐⭐⭐⭐
-- SQLite: ⭐⭐⭐⭐
-- MySQL: ⭐⭐⭐⭐
-- MongoDB: ⭐⭐⭐⭐
-- PostgreSQL: ⭐⭐⭐⭐
-
-### Machine Learning and Deep Learning
-- Tensorflow: ⭐⭐⭐
-- Keras: ⭐⭐⭐
-- scikit-learn: ⭐⭐⭐
-- PyTorch: ⭐⭐⭐⭐
-
-### Data Science Platforms
-- Kaggle: ⭐⭐⭐
-- Weights & Biases: ⭐⭐
-
-### Web Development
-- Flask: ⭐⭐⭐⭐
-- HTML: ⭐⭐⭐
-- CSS: ⭐⭐
-- JavaScript: ⭐⭐⭐
-
-### Android Development
-- Android Studio: ⭐⭐
-
-### Collaboration and Version Control
-- Github: ⭐⭐⭐
-- Notion: ⭐⭐⭐⭐
-- Slack: ⭐⭐⭐
-
-### Cloud Platforms
-- AWS: ⭐⭐⭐
-- Docker: ⭐⭐
-
-
 
 ## Project
 
