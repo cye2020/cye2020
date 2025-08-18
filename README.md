@@ -1,26 +1,7 @@
-# 😎 Nice to See you!
-
-<!--
-**cye2020/cye2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Welcome to my page!
-
 ## About Me
-- 😊 Name: 조예은 (Cho Ye-eun)
-- 🎓 Major: Department of Computer Science and Engineering
-
+- 😊 이름: 조예은 (Cho Ye-eun)
+- 🎓 전공: Department of Computer Science and Engineering
+- 블로그: 노션 링크[https://www.notion.so/2304bfa9455f808d8641e9526cd6e1a3?v=2304bfa9455f8054a821000ce204a923]
 
 
 
