@@ -1,7 +1,7 @@
 ## About Me
 - 🫂 이름: 조예은 (Cho Ye-eun)
 - 🎓 전공: Department of Computer Science and Engineering
-- 🍀 블로그: [노션 링크](https://www.notion.so/2304bfa9455f808d8641e9526cd6e1a3?v=2304bfa9455f8054a821000ce204a923)
+- 🍀 부트캠프 블로그: [노션 링크](https://www.notion.so/2304bfa9455f808d8641e9526cd6e1a3?v=2304bfa9455f8054a821000ce204a923)
 
 
 
